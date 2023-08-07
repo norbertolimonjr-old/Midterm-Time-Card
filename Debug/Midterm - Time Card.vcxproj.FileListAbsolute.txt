@@ -1,0 +1,5 @@
+C:\Users\Norberto\source\repos\Midterm - Time Card\Debug\Midterm - Time Card.vcxprojAssemblyReference.cache
+C:\Users\Norberto\source\repos\Midterm - Time Card\Debug\Midterm___Time_Card.Form1.resources
+C:\Users\Norberto\source\repos\Midterm - Time Card\Debug\Midterm - Time Card.vcxproj.GenerateResource.cache
+C:\Users\Norberto\source\repos\Midterm - Time Card\Debug\Midterm - Time Card.exe
+C:\Users\Norberto\source\repos\Midterm - Time Card\Debug\Midterm - Time Card.pdb

@@ -1,0 +1,5 @@
+﻿  CppCLR_WinformsProjekt.cpp
+C:\Users\Norberto\source\repos\Midterm - Time Card\Form1.h(848,33): warning C4101: 'myException': unreferenced local variable
+C:\Users\Norberto\source\repos\Midterm - Time Card\Form1.h(852,27): warning C4101: 'myException': unreferenced local variable
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Midterm - Time Card.vcxproj -> C:\Users\Norberto\source\repos\Midterm - Time Card\Debug\Midterm - Time Card.exe
